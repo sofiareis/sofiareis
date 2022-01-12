@@ -4,7 +4,7 @@ I love to code and design projects! I am a computer engineer student interested 
 
 
  🌱 Currently:
-- working as a R&D Verification Engineer at Ansys Lumerical
+- working as a Software Developer at Ensemble
 - participating in Hackathons with my friends
 - computer engineer at UBC
 
