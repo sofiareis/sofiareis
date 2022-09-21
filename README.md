@@ -4,13 +4,12 @@ I love to code and design projects! I am a computer engineer student interested 
 
 
  🌱 Currently:
-- working as a Software Developer at Ensemble
 - participating in Hackathons with my friends
-- computer engineer at UBC
+- computer engineer at UBC (expect grad: may 2023)
 
 📫 How to reach me:
 
-- I am open to internship opportunities for winter and summer 2022! You can contact me with my <a target="_blank" href='mailto:sofiareis2018@gmail.com' className={classes.email}>email</a>
+- I am open to new grad opportunies! You can contact me with my <a target="_blank" href='mailto:sofiareis2018@gmail.com' className={classes.email}>email</a>
 
 
 <!---
