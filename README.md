@@ -1,15 +1,14 @@
 👋 Hi, I’m Sofia
 
-I love to code and design projects! I am a computer engineer student interested in full-stack, mobile, and web development. My projects focus on sustainability and the common good.
+I love to code and design projects! I am a computer engineering student interested in full-stack, mobile, and web development. My projects focus on sustainability and the common good.
 
 
  🌱 Currently:
-- participating in Hackathons with my friends
-- computer engineer at UBC (expect grad: may 2023)
+- Looking for software development new grad opportunities
 
 📫 How to reach me:
 
-- I am open to new grad opportunies! You can contact me with my <a target="_blank" href='mailto:sofiareis2018@gmail.com' className={classes.email}>email</a>
+- I am open to new grad opportunities! You can contact me with my <a target="_blank" href='mailto:sofiareis2018@gmail.com' className={classes.email}>email</a>
 
 
 <!---
