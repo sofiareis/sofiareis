@@ -4,6 +4,7 @@ I love to code and design projects! I am a computer engineering student interest
 
 
  🌱 Currently:
+- Graduated in Computer Engineering at the University of British Columbia
 - Looking for software development new grad opportunities
 
 📫 How to reach me:
