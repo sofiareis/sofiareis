@@ -1,6 +1,6 @@
 👋 Hi, I’m Sofia
 
-I love to code and design projects! I am a computer engineering student interested in full-stack, mobile, and web development. My projects focus on sustainability and the common good.
+I love to code and design projects! I am a recent computer engineering graduate interested in full-stack, mobile, and web development. My projects focus on sustainability and the common good.
 
 
  🌱 Currently:
