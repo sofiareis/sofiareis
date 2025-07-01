@@ -1,11 +1,11 @@
 👋 Hi, I’m Sofia
 
-I love to code and design projects! I am a recent computer engineering graduate interested in full-stack, mobile, and web development. My projects focus on sustainability and the common good.
+I love to code and design projects! I am a computer engineer interested in full-stack, mobile, and web development. My projects focus on sustainability and the common good.
 
 
  🌱 Currently:
 - Graduated in Computer Engineering at the University of British Columbia
-- Looking for software development new grad opportunities
+- Looking for software development opportunities
 
 📫 How to reach me:
 
