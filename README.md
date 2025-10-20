@@ -1,15 +1,19 @@
 👋 Hi, I’m Sofia
 
-I love to code and design projects! I am a computer engineer interested in full-stack, mobile, and web development. My projects focus on sustainability and the common good.
+I am a computer engineer and full-stack developer. Outside of my job, I enjoy working on my personal projects and learning new skills that will take me further in the field.
 
+I am constantly looking for challenges and situations that will push me to become a better software developer. I enjoy working in fast-paced and dynamic environments that push me out of my comfort zone and help me grow professionally. 
+
+I have a passion for code and design projects, particularly focused on full-stack, mobile, and web development. 
 
  🌱 Currently:
+- Working as a full-stack Software Developer at Svante Inc.
+- Helping carbon capture researchers through tailored app development
 - Graduated in Computer Engineering at the University of British Columbia
-- Looking for software development opportunities
 
 📫 How to reach me:
 
-- I am open to new grad opportunities! You can contact me with my <a target="_blank" href='mailto:sofiareis2018@gmail.com' className={classes.email}>email</a>
+- I am open to software opportunities! You can contact me through my <a target="_blank" href='mailto:sofiareis2018@gmail.com' className={classes.email}>email</a>
 
 
 <!---
