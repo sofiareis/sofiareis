@@ -4,7 +4,7 @@ I am a computer engineer and full-stack developer. Outside of my job, I enjoy wo
 
 I am constantly looking for challenges and situations that will push me to become a better software developer. I enjoy working in fast-paced and dynamic environments that push me out of my comfort zone and help me grow professionally. 
 
-I have a passion for code and design projects, particularly focused on full-stack, mobile, and web development. 
+I have a passion for coding and designing projects, particularly focused on full-stack, mobile, and web development. 
 
  🌱 Currently:
 - Working as a full-stack Software Developer at Svante Inc.
@@ -13,7 +13,7 @@ I have a passion for code and design projects, particularly focused on full-stac
 
 📫 How to reach me:
 
-- I am open to software opportunities! You can contact me through my <a target="_blank" href='mailto:sofiareis2018@gmail.com' className={classes.email}>email</a>
+- You can contact me through my <a target="_blank" href='mailto:sofiareis2018@gmail.com' className={classes.email}>email</a>
 
 
 <!---
